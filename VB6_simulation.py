@@ -1,4 +1,6 @@
-# M. Nicoletti et al. 2023, "Biophysical modeling of the whole-cell dynamics of C. elegans motor and interneurons families"
+# "Biophysical modeling of the whole-cell dynamics of C. elegans motor and interneurons families"
+# M. Nicoletti et al. PloS ONE, 19(3): e0298105.
+# https://doi.org/10.1371/journal.pone.0298105
 
 # VB6 current and voltage clamp simulations shown in Figure 8 panels B,E, and H
 
