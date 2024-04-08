@@ -2,7 +2,8 @@
 
 The folder contains the codes for reproducing the figures of the papers:
 Biophysical modeling of the whole-cell dynamics of C. elegans motor and interneurons families
-by M. Nicoletti et al.
+by M. Nicoletti et al. PloS ONE, 19(3): e0298105.
+https://doi.org/10.1371/journal.pone.0298105
 
 The repository contains python codes and NEURON .mod files for Hodgkin-Huxley models of
 AVAL, AVAR, VA5, VB6, VD5, AIY, and RIM C.elegans neurons. 
