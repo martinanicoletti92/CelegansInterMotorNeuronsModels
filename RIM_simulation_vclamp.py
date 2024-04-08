@@ -1,3 +1,8 @@
+# "Biophysical modeling of the whole-cell dynamics of C. elegans motor and interneurons families"
+# M. Nicoletti et al. PloS ONE, 19(3): e0298105.
+# https://doi.org/10.1371/journal.pone.0298105
+
+
 def RIM_simulation_vc(gRIM_scaled,vstart,vstop,ns):
     
 
