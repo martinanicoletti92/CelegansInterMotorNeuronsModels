@@ -2,6 +2,10 @@
 : Created 8/15/02 - nwg
 : https://senselab.med.yale.edu/ModelDB/ShowModel?model=48332&file=/purkinje/cadiff.mod#tabs-1
 
+: "Biophysical modeling of the whole-cell dynamics of C. elegans motor and interneurons families"
+: M. Nicoletti et al. PloS ONE, 19(3): e0298105.
+: https://doi.org/10.1371/journal.pone.0298105
+
 
 NEURON {
        SUFFIX cadiff
